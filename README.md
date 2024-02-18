@@ -1,4 +1,6 @@
-# OtdTools
+# otd-tools
+
+Web UI for interfacing with [OpenTransportData](https://opentransportdata.swiss/).
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.8.
 
